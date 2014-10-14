@@ -1,0 +1,19 @@
+{
+  "name": "nodeWEBSCRAPER",
+  "version": "0.0.0",
+  "description": "Node webscraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nono21/nodeWEBSCRAPER.git"
+  },
+  "author": "TNP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nono21/nodeWEBSCRAPER/issues"
+  },
+  "homepage": "https://github.com/nono21/nodeWEBSCRAPER"
+}
